@@ -24,7 +24,7 @@
         "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/Deluxe_Coop.png/144px-Deluxe_Coop.png"
     },
     "Fish Pond": {
-        "cost": ["5,000g", "200 Stone", "5 Seawood", "5 Green Algae"],
+        "cost": ["5,000g", "200 Stone", "5 Seaweed", "5 Green Algae"],
         "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/65/Fish_Pond.png/144px-Fish_Pond.png"
     },
     "Mill": {
@@ -55,20 +55,16 @@
         "cost": ["1,000g", "75 Stone"],
         "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/4/41/Well.png/144px-Well.png"
     },
-    "Stone Cabin": {
-        "cost": ["100g", "10 Stone"],
+    "Cabin": {
+        "cost": ["100g"],
         "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/d/d0/Stone_Cabin_Stage_1.png/144px-Stone_Cabin_Stage_1.png"
-    },
-    "Plank Cabin": {
-        "cost": ["100g", "5 Wood", "10 Fiber"],
-        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ad/Plank_Cabin_Stage_1.png/144px-Plank_Cabin_Stage_1.png"
-    },
-    "Log Cabin": {
-        "cost": ["100g", "10 Wood"],
-        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/13/Log_Cabin_Stage_1.png/144px-Log_Cabin_Stage_1.png"
     },
     "Shipping Bin": {
         "cost": ["250g", "150 Wood"],
         "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/ShippingBox.png"
+    }, 
+    "Pet Bowl": {
+        "cost": ["5,000g", "25 Hardwood"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/0/05/Pet_Bowl_Wood.png/72px-Pet_Bowl_Wood.png"
     }
 }

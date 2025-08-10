@@ -11,7 +11,8 @@
             "All Eggs (except Void Egg)"
         ],
         "birthday": "Summer 13",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Alex.png",
+        "schedule": "https://stardewvalleywiki.com/Alex"
     },
     "Elliott": {
         "loves": [
@@ -30,7 +31,8 @@
             "Squid"
         ],
         "birthday": "Fall 5",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png",
+        "schedule": "https://stardewvalleywiki.com/Elliott"
     },
     "Harvey": {
         "loves": [
@@ -65,7 +67,8 @@
             "Winter Root"
         ],
         "birthday": "Winter 14",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/95/Harvey.png",
+        "schedule": "https://stardewvalleywiki.com/Harvey"
     },
     "Sam": {
         "loves": [
@@ -80,7 +83,8 @@
             "Joja Cola"
         ],
         "birthday": "Summer 17",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png",
+        "schedule": "https://stardewvalleywiki.com/Sam"
     },
     "Sebastian": {
         "loves": [
@@ -97,7 +101,8 @@
             "Quartz"
         ],
         "birthday": "Winter 10",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png",
+        "schedule": "https://stardewvalleywiki.com/Sebastian"
     },
     "Shane": {
         "loves": [
@@ -113,7 +118,8 @@
             "All Fruit (except Hot Pepper)"
         ],
         "birthday": "Spring 20",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Shane.png",
+        "schedule": "https://stardewvalleywiki.com/Shane"
     },
     "Abigail": {
         "loves": [
@@ -131,7 +137,8 @@
             "Quartz"
         ],
         "birthday": "Fall 13",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png",
+        "schedule": "https://stardewvalleywiki.com/Abigail"
     },
     "Emily": {
         "loves": [
@@ -150,7 +157,8 @@
             "All Universal Likes (except Fish Taco, Fried Eel, Ice Cream, Maki Roll, Rice Pudding, Salmon Dinner, Spicy Eel, Sashimi)"
         ],
         "birthday": "Spring 27",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/28/Emily.png",
+        "schedule": "https://stardewvalleywiki.com/Emily"
     },
     "Haley": {
         "loves": [
@@ -165,7 +173,8 @@
             "Daffodil"
         ],
         "birthday": "Spring 14",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Haley.png",
+        "schedule": "https://stardewvalleywiki.com/Haley"
     },
     "Leah": {
         "loves": [
@@ -202,7 +211,8 @@
             "Winter Root"
         ],
         "birthday": "Winter 23",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png",
+        "schedule": "https://stardewvalleywiki.com/Leah"
     },
     "Maru": {
         "loves": [
@@ -229,7 +239,8 @@
             "Radioactive Ore"
         ],
         "birthday": "Summer 10",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png",
+        "schedule": "https://stardewvalleywiki.com/Maru"
     },
     "Penny": {
         "loves": [
@@ -252,7 +263,8 @@
             "Leek"
         ],
         "birthday": "Fall 2",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/ab/Penny.png",
+        "schedule": "https://stardewvalleywiki.com/Penny"
     },
     "Caroline": {
         "loves": [
@@ -268,7 +280,8 @@
             "Tea Leaves"
         ],
         "birthday": "Winter 7",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Caroline.png",
+        "schedule": "https://stardewvalleywiki.com/Caroline"
     },
     "Clint": {
         "loves": [
@@ -290,7 +303,8 @@
             "Iron Bar"
         ],
         "birthday": "Winter 26",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Clint.png",
+        "schedule": "https://stardewvalleywiki.com/Clint"
     },
     "Demetrius": {
         "loves": [
@@ -307,7 +321,8 @@
             "Purple Mushroom"
         ],
         "birthday": "Summer 19",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f9/Demetrius.png",
+        "schedule": "https://stardewvalleywiki.com/Demetrius"
     },
     "Dwarf": {
         "loves": [
@@ -328,7 +343,8 @@
             "Quartz"
         ],
         "birthday": "Summer 22",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Dwarf.png",
+        "schedule": "https://stardewvalleywiki.com/Dwarf"
     },
     "Evelyn": {
         "loves": [
@@ -346,7 +362,8 @@
             "Daffodil"
         ],
         "birthday": "Winter 20",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8e/Evelyn.png",
+        "schedule": "https://stardewvalleywiki.com/Evelyn"
     },
     "George": {
         "loves": [
@@ -359,7 +376,8 @@
             "Daffodil"
         ],
         "birthday": "Fall 24",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/78/George.png",
+        "schedule": "https://stardewvalleywiki.com/George"
     },
     "Gus": {
         "loves": [
@@ -375,7 +393,8 @@
             "Daffodil"
         ],
         "birthday": "Summer 8",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Gus.png",
+        "schedule": "https://stardewvalleywiki.com/Gus"
     },
     "Jas": {
         "loves": [
@@ -390,7 +409,8 @@
             "Daffodil"
         ],
         "birthday": "Summer 4",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/5/55/Jas.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/55/Jas.png",
+        "schedule": "https://stardewvalleywiki.com/Jas"
     },
     "Jodi": {
         "loves": [
@@ -411,7 +431,8 @@
             "All Milk"
         ],
         "birthday": "Fall 11",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/41/Jodi.png",
+        "schedule": "https://stardewvalleywiki.com/Jodi"
     },
     "Kent": {
         "loves": [
@@ -426,7 +447,8 @@
             "Daffodil"
         ],
         "birthday": "Spring 4",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Kent.png",
+        "schedule": "https://stardewvalleywiki.com/Kent"
     },
     "Krobus": {
         "loves": [
@@ -444,7 +466,8 @@
             "Quartz"
         ],
         "birthday": "Winter 1",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png",
+        "schedule": "https://stardewvalleywiki.com/Krobus"
     },
     "Leo": {
         "loves": [
@@ -465,7 +488,8 @@
             "Spice Berry"
         ],
         "birthday": "Summer 26",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Leo.png",
+        "schedule": "https://stardewvalleywiki.com/Leo"
     },
     "Lewis": {
         "loves": [
@@ -483,7 +507,8 @@
             "Coconut"
         ],
         "birthday": "Spring 7",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/2b/Lewis.png",
+        "schedule": "https://stardewvalleywiki.com/Lewis"
     },
     "Linus": {
         "loves": [
@@ -516,7 +541,8 @@
             "Winter Root"
         ],
         "birthday": "Winter 3",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png",
+        "schedule": "https://stardewvalleywiki.com/Linus"
     },
     "Marnie": {
         "loves": [
@@ -533,7 +559,8 @@
             "Quartz"
         ],
         "birthday": "Fall 18",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Marnie.png",
+        "schedule": "https://stardewvalleywiki.com/Marnie"
     },
     "Pam": {
         "loves": [
@@ -554,7 +581,8 @@
             "Daffodil"
         ],
         "birthday": "Spring 18",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/da/Pam.png",
+        "schedule": "https://stardewvalleywiki.com/Pam"
     },
     "Pierre": {
         "loves": [
@@ -569,7 +597,8 @@
             "Dandelion"
         ],
         "birthday": "Spring 26",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/7e/Pierre.png",
+        "schedule": "https://stardewvalleywiki.com/Pierre"
     },
     "Robin": {
         "loves": [
@@ -586,7 +615,8 @@
             "Quartz"
         ],
         "birthday": "Fall 21",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/1b/Robin.png",
+        "schedule": "https://stardewvalleywiki.com/Robin"
     },
     "Sandy": {
         "loves": [
@@ -605,7 +635,8 @@
             "Wool"
         ],
         "birthday": "Fall 15",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/4e/Sandy.png",
+        "schedule": "https://stardewvalleywiki.com/Sandy"
     },
     "Vincent": {
         "loves": [
@@ -622,7 +653,8 @@
             "Daffodil"
         ],
         "birthday": "Spring 10",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Vincent.png",
+        "schedule": "https://stardewvalleywiki.com/Vincent"
     },
     "Willy": {
         "loves": [
@@ -657,7 +689,8 @@
             "Trout Soup"
         ],
         "birthday": "Winter 24",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Willy.png",
+        "schedule": "https://stardewvalleywiki.com/Willy"
     },
     "Wizard": {
         "loves": [
@@ -673,7 +706,8 @@
             "Quartz"
         ],
         "birthday": "Winter 17",
-        "image": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png"
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/c7/Wizard.png",
+        "schedule": "https://stardewvalleywiki.com/Wizard"
     }
     
 }

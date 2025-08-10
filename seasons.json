@@ -1,0 +1,826 @@
+{
+  "Spring": {
+    "Crops": {
+      "Single Harvest": {
+        "Blue Jazz": {
+          "Seed Price": "30g",
+          "Growth Time": "7",
+          "Max Harvests": "3",
+          "Base Sell Price": "50g",
+          "Bundle": false
+        },
+        "Cauliflower": {
+          "Seed Price": "80g",
+          "Growth Time": "12",
+          "Max Harvests": "2",
+          "Base Sell Price": "175g",
+          "Bundle": true
+        },
+        "Garlic": {
+          "Seed Price": "40g",
+          "Growth Time": "4",
+          "Max Harvests": "6",
+          "Base Sell Price": "60g",
+          "Bundle": false
+        },
+        "Kale": {
+          "Seed Price": "70g",
+          "Growth Time": "6",
+          "Max Harvests": "4",
+          "Base Sell Price": "110g",
+          "Bundle": false
+        },
+        "Parsnip": {
+          "Seed Price": "20g",
+          "Growth Time": "4",
+          "Max Harvests": "6",
+          "Base Sell Price": "35g",
+          "Bundle": true
+        },
+        "Potato": {
+          "Seed Price": "50g",
+          "Growth Time": "6",
+          "Max Harvests": "4",
+          "Base Sell Price": "80g",
+          "Bundle": true
+        },
+        "Rhubarb": {
+          "Seed Price": "100g (Oasis)",
+          "Growth Time": "13",
+          "Max Harvests": "2",
+          "Base Sell Price": "220g",
+          "Bundle": false
+        },
+        "Tulip": {
+          "Seed Price": "20g",
+          "Growth Time": "6",
+          "Max Harvests": "4",
+          "Base Sell Price": "30g",
+          "Bundle": false
+        },
+        "Unmilled Rice": {
+          "Seed Price": "40g",
+          "Growth Time": "6 (Irrigated) / 8",
+          "Max Harvests": "3 (Irrigated / 4",
+          "Base Sell Price": "30g",
+          "Bundle": false
+        },
+        "Carrot": {
+          "Seed Price": "0g",
+          "Growth Time": "3",
+          "Max Harvests": "9",
+          "Base Sell Price": "35g",
+          "Bundle": false
+        }
+      },
+      "Multi Harvest": {
+        "Coffee Bean": {
+          "Seed Price": "2,500g (Traveling Cart)",
+          "Growth Time": "10 Initial Harvest / 2 Additional Harvests (Yields 4 beans)",
+          "Max Harvests": "9 (Spring) / 23 (Spring and Summer)",
+          "Base Sell Price": "15g",
+          "Bundle": false
+        },
+        "Green Bean": {
+          "Seed Price": "60g",
+          "Growth Time": "10 Initial Harvest / 3 Additional Harvests",
+          "Max Harvests": "6",
+          "Base Sell Price": "40g",
+          "Bundle": true
+        },
+        "Strawberry": {
+          "Seed Price": "100g (Egg Festival)",
+          "Growth Time": "8 Initial Harvest / 4 Additional Harvests",
+          "Max Harvests": "5 if planted on first day of Spring, 2 if planted after Egg Festival",
+          "Base Sell Price": "120g",
+          "Bundle": false
+        }
+      }
+    },
+    "Foraging": [
+      "Common Mushroom (Secret Woods)",
+      "Daffodil",
+      "Dandelion",
+      "Leek",
+      "Morel (Secret Woods)",
+      "Salmonberry (Spring 15-18)",
+      "Spring Onion",
+      "Wild Horseradish"
+    ],
+    "Fish": {
+      "Anchovy": {
+        "Location": "Ocean",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Smallmouth Bass": {
+        "Location": "River, Forest Pond",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Catfish": {
+        "Location": "River, Secret Woods Pond, Witch's Swamp",
+        "Time": "6am - 12am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Sunfish": {
+        "Location": "River",
+        "Time": "6am- 7pm",
+        "Weather": "Sun Wind",
+        "Bundle": true
+      },
+      "Herring": {
+        "Location": "Ocean",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Eel": {
+        "Location": "Ocean",
+        "Time": "4pm - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Sardine": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Shad": {
+        "Location": "River",
+        "Time": "9am - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Flounder": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 8pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Halibut": {
+        "Location": "Ocean",
+        "Time": "6am - 11am and 7pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Legend": {
+        "Location": "Mountain Lake (Fishing Level 10)",
+        "Time": "Anytime",
+        "Weather": "Rain",
+        "Bundle": false
+      }
+    },
+    "Trees": {
+      "Apricot": {
+        "Sapling Price": "2000g",
+        "Growth Time": "28 days",
+        "Base Sell Price": "50g",
+        "Bundle": true
+      },
+      "Cherry": {
+        "Sapling Price": "3,400g",
+        "Growth Time": "28 days",
+        "Base Sell Price": "80g",
+        "Bundle": true
+      }
+    }
+  },
+  "Summer": {
+    "Crops": {
+      "Single Harvest": {
+        "Melon": {
+          "Seed Price": "80g",
+          "Growth Time": "12",
+          "Max Harvests": "2",
+          "Base Sell Price": "250g",
+          "Bundle": true
+        },
+        "Poppy": {
+          "Seed Price": "100g",
+          "Growth Time": "7",
+          "Max Harvests": "3",
+          "Base Sell Price": "140g",
+          "Bundle": true
+        },
+        "Radish": {
+          "Seed Price": "40g",
+          "Growth Time": "6",
+          "Max Harvests": "4",
+          "Base Sell Price": "90g",
+          "Bundle": false
+        },
+        "Red Cabbage": {
+          "Seed Price": "100g",
+          "Growth Time": "9",
+          "Max Harvests": "3",
+          "Base Sell Price": "260g",
+          "Bundle": true
+        },
+        "Starfruit": {
+          "Seed Price": "400g (Oasis)",
+          "Growth Time": "13",
+          "Max Harvests": "2",
+          "Base Sell Price": "750g",
+          "Bundle": false
+        },
+        "Summer Spangle": {
+          "Seed Price": "50g",
+          "Growth Time": "8",
+          "Max Harvests": "3",
+          "Base Sell Price": "90g",
+          "Bundle": false
+        },
+        "Sunflower": {
+          "Seed Price": "200g",
+          "Growth Time": "8",
+          "Max Harvests": "3 (Summer) / 6 (Summer and Fall)",
+          "Base Sell Price": "80g",
+          "Bundle": true
+        },
+        "Wheat": {
+          "Seed Price": "10g",
+          "Growth Time": "4",
+          "Max Harvests": "6 (Summer) / 13 (Summer and Fall)",
+          "Base Sell Price": "25g",
+          "Bundle": true
+        }
+      },
+      "Multi Harvest": {
+        "Blueberry": {
+          "Seed Price": "80g",
+          "Growth Time": "13 Initial Harvest / 4 Additional Harvests (Yields 3 berries)",
+          "Max Harvests": "4",
+          "Sells Price": "50g",
+          "Bundle": true
+        },
+        "Coffee Bean": {
+          "Seed Price": "2,500g (Traveling Cart)",
+          "Growth Time": "10 Initial Harvest / 2 Additional Harvests (Yields 4 beans)",
+          "Max Harvests": "9 (Spring) / 23 (Spring and Summer)",
+          "Base Sell Price": "15g",
+          "Bundle": false
+        },
+        "Corn": {
+          "Seed Price": "150g",
+          "Growth Time": "14 Initial Harvest / 4 Additional Harvests",
+          "Max Harvests": "4 (Summer) / 11 (Summer and Fall)",
+          "Base Sell Price": "50g",
+          "Bundle": true
+        },
+        "Hops": {
+          "Seed Price": "60g",
+          "Growth Time": "11 Initial Harvest / 1 Additional Harvests",
+          "Max Harvests": "17",
+          "Base Sell Price": "25g",
+          "Bundle": false
+        },
+        "Hot Pepper": {
+          "Seed Price": "40g",
+          "Growth Time": "5 Initial Harvest / 3 Additional Harvests",
+          "Max Harvests": "8",
+          "Base Sell Price": "40g",
+          "Bundle": true
+        },
+        "Tomato": {
+          "Seed Price": "50g",
+          "Growth Time": "11 Initial Harvest / 4 Additional Harvests",
+          "Max Harvests": "5",
+          "Base Sell Price": "60g",
+          "Bundle": true
+        },
+        "Summer Squash": {
+          "Seed Price": "0g",
+          "Growth Time": "6 Initial Harvest / 3 Additional Harvests",
+          "Max Harvests": "8",
+          "Base Sell Price": "45g",
+          "Bundle": false
+        }
+      }
+    },
+    "Foraging": [
+      "Rainbow Shell (Beach)",
+      "Grape",
+      "Red Mushroom (Secret Woods)",
+      "Spice Berry",
+      "Fiddlehead Fern (Secret Woods)",
+      "Sweet Pea"
+    ],
+    "Fish": {
+      "Pufferfish": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "12pm - 4pm",
+        "Weather": "Sun",
+        "Bundle": true
+      },
+      "Tuna": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Rainbow Trout": {
+        "Location": "River, Mountain Lake",
+        "Time": "6am - 7pm",
+        "Weather": "Sun",
+        "Bundle": false
+      },
+      "Catfish": {
+        "Location": "River, Secret Woods Pond, Witch's Swamp",
+        "Time": "6am- 12am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Pike": {
+        "Location": "River, Forest Pond",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Sunfish": {
+        "Location": "River",
+        "Time": "6am - 7pm",
+        "Weather": "Sun Wind",
+        "Bundle": true
+      },
+      "Red Mullet": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Octopus": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 1pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Red Snapper": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Super Cucumber": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Sturgeon": {
+        "Location": "Mountain Lake",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Tilapia": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 2pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Dorado": {
+        "Location": "River",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Flounder": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 8pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Shad": {
+        "Location": "River",
+        "Time": "9am - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Halibut": {
+        "Location": "Ocean",
+        "Time": "6am - 11am and 7pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Crimsonfish": {
+        "Location": "Eash Pier on the Beach (Level 5 Fishing)",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      }
+    },
+    "Trees": {
+      "Banana": {
+        "Sapling Price": "5 Dragon Tooth",
+        "Growth Time": "28 days",
+        "Base Sell Price": "150g",
+        "Bundle": false
+      },
+      "Mango": {
+        "Sapling Price": "75 Mussel",
+        "Growth Time": "28 days",
+        "Base Sell Price": "130g",
+        "Bundle": false
+      },
+      "Orange": {
+        "Sapling Price": "4000g",
+        "Growth Time": "28 days",
+        "Base Sell Price": "100g",
+        "Bundle": true
+      },
+      "Peach": {
+        "Sapling Price": "6,000g",
+        "Growth Time": "28 days",
+        "Base Sell Price": "140g",
+        "Bundle": true
+      }
+    }
+  },
+  "Fall": {
+    "Crops": {
+      "Single Harvest": {
+        "Sunflower": {
+          "Seed Price": "200g",
+          "Growth Time": "8",
+          "Max Harvests": "3 (Summer) / 6 (Summer and Fall)",
+          "Base Sell Price": "80g",
+          "Bundle": false
+        },
+        "Wheat": {
+          "Seed Price": "10g",
+          "Growth Time": "4",
+          "Max Harvests": "6 (Summer) / 13 (Summer and Fall)",
+          "Base Sell Price": "25g",
+          "Bundle": false
+        },
+        "Amaranth": {
+          "Seed Price": "70g",
+          "Growth Time": "7",
+          "Max Harvests": "3",
+          "Base Sell Price": "150g",
+          "Bundle": false
+        },
+        "Artichoke": {
+          "Seed Price": "30g",
+          "Growth Time": "8",
+          "Max Harvests": "3",
+          "Base Sell Price": "160g",
+          "Bundle": false
+        },
+        "Beet": {
+          "Seed Price": "20g (Oasis)",
+          "Growth Time": "6",
+          "Max Harvests": "4",
+          "Base Sell Price": "100g",
+          "Bundle": false
+        },
+        "Bok Choy": {
+          "Seed Price": "50g",
+          "Growth Time": "4",
+          "Max Harvests": "6",
+          "Base Sell Price": "80g",
+          "Bundle": false
+        },
+        "Fairy Rose": {
+          "Seed Price": "200g",
+          "Growth Time": "12",
+          "Max Harvests": "2",
+          "Base Sell Price": "290g",
+          "Bundle": false
+        },
+        "Pumpkin": {
+          "Seed Price": "100g",
+          "Growth Time": "13",
+          "Max Harvests": "2",
+          "Base Sell Price": "320g",
+          "Bundle": true
+        },
+        "Sweet Gem Berry": {
+          "Seed Price": "1000g (Traveling Cart)",
+          "Growth Time": "24",
+          "Max Harvests": "1",
+          "Base Sell Price": "3000g",
+          "Bundle": false
+        },
+        "Yam": {
+          "Seed Price": "60g",
+          "Growth Time": "10",
+          "Max Harvests": "2",
+          "Base Sell Price": "160g",
+          "Bundle": true
+        }
+      },
+      "Multi Harvest": {
+        "Corn": {
+          "Seed Price": "150g",
+          "Growth Time": "14 Initial Harvest / 4 Additional Harvests",
+          "Max Harvests": "4 (Summer) / 11 (Summer and Fall)",
+          "Base Sell Price": "50g",
+          "Bundle": false
+        },
+        "Cranberries": {
+          "Seed Price": "240g",
+          "Growth Time": "7 Initial Harvest / 5 Additional Harvests (Yields 2 berries)",
+          "Max Harvests": "5",
+          "Base Sell Price": "65g",
+          "Bundle": false
+        },
+        "Eggplant": {
+          "Seed Price": "20g",
+          "Growth Time": "5 Initial Harvest / 5 Additional Harvests",
+          "Max Harvests": "5",
+          "Base Sell Price": "60g",
+          "Bundle": true
+        },
+        "Broccoli": {
+          "Seed Price": "0g",
+          "Growth Time": "8 Initial Harvest / 4 Additional Harvests",
+          "Max Harvests": "5",
+          "Base Sell Price": "70g",
+          "Bundle": false
+        },
+        "Grape": {
+          "Seed Price": "60g",
+          "Growth Time": "10 Initial Harvest / 3 Additional Harvests",
+          "Max Harvests": "6",
+          "Base Sell Price": "80g",
+          "Bundle": true
+        }
+      }
+    },
+    "Foraging": [
+      "Blackberry",
+      "Chanterelle (Secret Woods)",
+      "Common Mushroom",
+      "Hazelnut",
+      "Red Mushroom (Secret Woods)",
+      "Wild Plum"
+    ],
+    "Fish": {
+      "Anchovy": {
+        "Location": "Ocean",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Sardine": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Smallmouth Bass": {
+        "Location": "River, Forest Pond",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Salmon": {
+        "Location": "River, Forest Waterfalls",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Walleye": {
+        "Location": "River, Forest Pond, Mountain Lake",
+        "Time": "12pm - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Catfish": {
+        "Location": "River, Secret Woods Pond, Witch's Swamp",
+        "Time": "6am - 12am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Eel": {
+        "Location": "Ocean",
+        "Time": "4pm - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Red Snapper": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Sea Cucumber": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Super Cucumber": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Tiger Trout": {
+        "Location": "River",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Tilapia": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 2pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Albacore": {
+        "Location": "Ocean",
+        "Time": "6am - 11am and 6pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Midnight Carp": {
+        "Location": "Mountain Lake, Cindersap Forest Pond, Ginger Island",
+        "Time": "10pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Shad": {
+        "Location": "River",
+        "Time": "9am - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Angler": {
+        "Location": "North of JojaMart (Level 3 Fishing)",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      }
+    },
+    "Trees": {
+      "Apple": {
+        "Sapling Price": "4,000g",
+        "Growth Time": "28 days",
+        "Base Sell Price": "100g",
+        "Bundle": true
+      },
+      "Pomegranate": {
+        "Sapling Price": "6,000g",
+        "Growth Time": "28 days",
+        "Base Sell Price": "140g",
+        "Bundle": true
+      }
+    }
+  },
+  "Winter": {
+    "Crops": {
+      "Single Harvest": {
+        "Powdermelon": {
+          "Seed Price": "0g",
+          "Growth Time": "7",
+          "Max Harvests": "3",
+          "Base Sell Price": "60g",
+          "Bundle": false
+        }
+      }
+    },
+    "Foraging": [
+      "Nautilus Shell (Beach)",
+      "Crocus",
+      "Crystal Fruit",
+      "Holly",
+      "Snow Yam",
+      "Winter Root"
+    ],
+    "Fish": {
+      "Tuna": {
+        "Location": "Ocean, Ginger Island",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Sardine": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Perch": {
+        "Location": "River, Forest Pond, Mountain Lake",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Pike": {
+        "Location": "River, Forest Pond",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Red Mullet": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Herring": {
+        "Location": "Ocean",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Squid": {
+        "Location": "Ocean",
+        "Time": "6pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Sea Cucumber": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Sturgeon": {
+        "Location": "Mountain Lake",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Tiger Trout": {
+        "Location": "River",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Bundle": true
+      },
+      "Albacore": {
+        "Location": "Ocean",
+        "Time": "6am - 11am and 6pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Lingcod": {
+        "Location": "River, Mountain Lake",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Walleye": {
+        "Location": "River, Forest Pond, Mountain Lake",
+        "Time": "12pm - 2am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Catfish": {
+        "Location": "River, Secret Woods Pond, Witch's Swamp",
+        "Time": "6am - 12am",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Red Snapper": {
+        "Location": "Ocean",
+        "Time": "6am - 7pm",
+        "Weather": "Rain",
+        "Bundle": true
+      },
+      "Halibut": {
+        "Location": "Ocean",
+        "Time": "6am - 11am and 7pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Midnight Carp": {
+        "Location": "Mountain Lake, Cindersnap Forest Pond, Ginger Island",
+        "Time": "10pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Glacierfish": {
+        "Location": "Cindersap Forest (Level 6 Fishing)",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Midnight Squid": {
+        "Location": "Nightmarket Submarine Winter 15-17",
+        "Time": "5pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Spook Fish": {
+        "Location": "Night Market Submarine Winter 15-17",
+        "Time": "5pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      },
+      "Blobfish": {
+        "Location": "Night Market Submarine Winter 15-17",
+        "Time": "5pm - 2am",
+        "Weather": "Any Weather",
+        "Bundle": false
+      }
+    }
+  }
+}

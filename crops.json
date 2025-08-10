@@ -1,0 +1,452 @@
+{
+    "Blue Jazz": {
+        "Seed Price": "30g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "7",
+        "Max Harvests": "3",
+        "Base Sell Price": "50g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/2f/Blue_Jazz.png"
+      },
+      "Carrot": {
+        "Seed Price": "0g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "3",
+        "Max Harvests": "9",
+        "Base Sell Price": "35g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Carrot.png"
+      },
+      "Cauliflower": {
+        "Seed Price": "80g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "12",
+        "Max Harvests": "2",
+        "Base Sell Price": "175g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"
+      },
+      "Coffee Bean": {
+        "Seed Price": "2,500g (Traveling Cart)",
+        "Type": "Multi Harvest",
+        "Season": "Spring, Summer",
+        "Growth Time": "10 Initial Harvest / 2 Additional Harvests (Yields 4 beans)",
+        "Max Harvests": "9 (Spring) / 23 (Spring and Summer)",
+        "Base Sell Price": "15g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/33/Coffee_Bean.png"
+      },
+      "Garlic": {
+        "Seed Price": "40g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "4",
+        "Max Harvests": "6",
+        "Base Sell Price": "60g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/cc/Garlic.png"
+      },
+      "Green Bean": {
+        "Seed Price": "60g",
+        "Type": "Multi Harvest",
+        "Season": "Spring",
+        "Growth Time": "10 Initial Harvest / 3 Additional Harvests",
+        "Max Harvests": "6",
+        "Base Sell Price": "40g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png"
+      },
+      "Kale": {
+        "Seed Price": "70g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "6",
+        "Max Harvests": "4",
+        "Base Sell Price": "110g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png"
+      },
+      "Parsnip": {
+        "Seed Price": "20g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "4",
+        "Max Harvests": "6",
+        "Base Sell Price": "35g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"
+      },
+      "Potato": {
+        "Seed Price": "50g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "6",
+        "Max Harvests": "4",
+        "Base Sell Price": "80g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png"
+      },
+      "Rhubarb": {
+        "Seed Price": "100g (Oasis)",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "13",
+        "Max Harvests": "2",
+        "Base Sell Price": "220g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Rhubarb.png"
+      },
+      "Strawberry": {
+        "Seed Price": "100g (Egg Festival)",
+        "Type": "Multi Harvest",
+        "Season": "Spring",
+        "Growth Time": "8 Initial Harvest / 4 Additional Harvests",
+        "Max Harvests": "5 if planted on first day of Spring, 2 if planted after Egg Festival",
+        "Base Sell Price": "120g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
+      },
+      "Tulip": {
+        "Seed Price": "20g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "6",
+        "Max Harvests": "4",
+        "Base Sell Price": "30g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png"
+      },
+      "Unmilled Rice": {
+        "Seed Price": "40g",
+        "Type": "Single Harvest",
+        "Season": "Spring",
+        "Growth Time": "6 (Irrigated) / 8",
+        "Max Harvests": "3 (Irrigated / 4",
+        "Base Sell Price": "30g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/fe/Unmilled_Rice.png"
+      },
+      "Blueberry": {
+        "Seed Price": "80g",
+        "Type": "Multi Harvest",
+        "Season": "Summer",
+        "Growth Time": "13 Initial Harvest / 4 Additional Harvests (Yields 3 berries)",
+        "Max Harvests": "4",
+        "Sells Price": "50g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/9e/Blueberry.png"
+      },
+      "Corn": {
+        "Seed Price": "150g",
+        "Type": "Multi Harvest",
+        "Season": "Summer, Fall",
+        "Growth Time": "14 Initial Harvest / 4 Additional Harvests",
+        "Max Harvests": "4 (Summer) / 11 (Summer and Fall)",
+        "Base Sell Price": "50g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f8/Corn.png"
+      },
+      "Hops": {
+        "Seed Price": "60g",
+        "Type": "Multi Harvest",
+        "Season": "Summer, Fall",
+        "Growth Time": "11 Initial Harvest / 1 Additional Harvests",
+        "Max Harvests": "17",
+        "Base Sell Price": "25g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/59/Hops.png"
+      },
+      "Hot Pepper": {
+        "Seed Price": "40g",
+        "Type": "Multi Harvest",
+        "Season": "Summer",
+        "Growth Time": "5 Initial Harvest / 3 Additional Harvests",
+        "Max Harvests": "8",
+        "Base Sell Price": "40g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
+      },
+      "Melon": {
+        "Seed Price": "80g",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "12",
+        "Max Harvests": "2",
+        "Base Sell Price": "250g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/19/Melon.png"
+      },
+      "Poppy": {
+        "Seed Price": "100g",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "7",
+        "Max Harvests": "3",
+        "Base Sell Price": "140g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
+      },
+      "Radish": {
+        "Seed Price": "40g",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "6",
+        "Max Harvests": "4",
+        "Base Sell Price": "90g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Radish.png"
+      },
+      "Red Cabbage": {
+        "Seed Price": "100g",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "9",
+        "Max Harvests": "3",
+        "Base Sell Price": "260g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/2d/Red_Cabbage.png"
+      },
+      "Starfruit": {
+        "Seed Price": "400g (Oasis)",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "13",
+        "Max Harvests": "2",
+        "Base Sell Price": "750g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Starfruit.png"
+      },
+      "Summer Spangle": {
+        "Seed Price": "50g",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "8",
+        "Max Harvests": "3",
+        "Base Sell Price": "90g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png"
+      },
+      "Summer Squash": {
+        "Seed Price": "0g",
+        "Type": "Multi Harvest",
+        "Season": "Summer",
+        "Growth Time": "6 Initial Harvest / 3 Additional Harvests",
+        "Max Harvests": "8",
+        "Base Sell Price": "45g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/43/Summer_Squash.png"
+      },
+      "Sunflower": {
+        "Seed Price": "200g",
+        "Type": "Single Harvest",
+        "Season": "Summer, Fall",
+        "Growth Time": "8",
+        "Max Harvests": "3 (Summer) / 6 (Summer and Fall)",
+        "Base Sell Price": "80g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png"
+      },
+      "Tomato": {
+        "Seed Price": "50g",
+        "Type": "Multi Harvest",
+        "Season": "Summer",
+        "Growth Time": "11 Initial Harvest / 4 Additional Harvests",
+        "Max Harvests": "5",
+        "Base Sell Price": "60g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/9d/Tomato.png"
+      },
+      "Wheat": {
+        "Seed Price": "10g",
+        "Type": "Single Harvest",
+        "Season": "Summer, Fall",
+        "Growth Time": "4",
+        "Max Harvests": "6 (Summer) / 13 (Summer and Fall)",
+        "Base Sell Price": "25g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e2/Wheat.png"
+      },
+      "Amaranth": {
+        "Seed Price": "70g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "7",
+        "Max Harvests": "3",
+        "Base Sell Price": "150g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f6/Amaranth.png"
+      },
+      "Artichoke": {
+        "Seed Price": "30g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "8",
+        "Max Harvests": "3",
+        "Base Sell Price": "160g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/dd/Artichoke.png"
+      },
+      "Beet": {
+        "Seed Price": "20g (Oasis)",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "6",
+        "Max Harvests": "4",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a4/Beet.png"
+      },
+      "Bok Choy": {
+        "Seed Price": "50g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "4",
+        "Max Harvests": "6",
+        "Base Sell Price": "80g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/40/Bok_Choy.png"
+      },
+      "Broccoli": {
+        "Seed Price": "0g",
+        "Type": "Multi Harvest",
+        "Season": "Fall",
+        "Growth Time": "8 Initial Harvest / 4 Additional Harvests",
+        "Max Harvests": "5",
+        "Base Sell Price": "70g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Broccoli.png"
+      },
+      "Cranberries": {
+        "Seed Price": "240g",
+        "Type": "Multi Harvest",
+        "Season": "Fall",
+        "Growth Time": "7 Initial Harvest / 5 Additional Harvests (Yields 2 berries)",
+        "Max Harvests": "5",
+        "Base Sell Price": "65g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Cranberries.png"
+      },
+      "Eggplant": {
+        "Seed Price": "20g",
+        "Type": "Multi Harvest",
+        "Season": "Fall",
+        "Growth Time": "5 Initial Harvest / 5 Additional Harvests",
+        "Max Harvests": "5",
+        "Base Sell Price": "60g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Eggplant.png"
+      },
+      "Fairy Rose": {
+        "Seed Price": "200g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "12",
+        "Max Harvests": "2",
+        "Base Sell Price": "290g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
+      },
+      "Grape": {
+        "Seed Price": "60g",
+        "Type": "Multi Harvest",
+        "Season": "Fall",
+        "Growth Time": "10 Initial Harvest / 3 Additional Harvests",
+        "Max Harvests": "6",
+        "Base Sell Price": "80g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png"
+      },
+      "Pumpkin": {
+        "Seed Price": "100g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "13",
+        "Max Harvests": "2",
+        "Base Sell Price": "320g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+      },
+      "Yam": {
+        "Seed Price": "60g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "10",
+        "Max Harvests": "2",
+        "Base Sell Price": "160g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/52/Yam.png"
+      },
+      "Powdermelon": {
+        "Seed Price": "0g",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "7",
+        "Max Harvests": "3",
+        "Base Sell Price": "60g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Powdermelon.png"
+      },
+      "Ancient Fruit": {
+        "Seed Price": "0g",
+        "Type": "Multi Harvest",
+        "Season": "Spring, Summer, Fall",
+        "Growth Time": "28 Initial Harvest / 7 Additional Harvests",
+        "Max Harvests": "8 (If planted on Day 1 of the Spring)",
+        "Base Sell Price": "550g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/01/Ancient_Fruit.png"
+      },
+      "Cactus Fruit": {
+        "Seed Price": "150g (Oasis)",
+        "Type": "Multi Harvest",
+        "Season": "All Seasons (Greenhouse)",
+        "Growth Time": "12 Initial Harvest / 3 Additional Harvests",
+        "Max Harvests": "4",
+        "Base Sell Price": "74g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
+      },
+      "Pineapple": {
+        "Seed Price": "1 Magma Cap",
+        "Type": "Multi Harvest",
+        "Season": "Summer",
+        "Growth Time": "14 Initial Harvest / 7 Additional Harvests",
+        "Max Harvests": "8",
+        "Base Sell Price": "300g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/fb/Pineapple.png"
+      },
+      "Taro Root":  {
+        "Seed Price": "2 Bone Fragment",
+        "Type": "Single Harvest",
+        "Season": "Summer",
+        "Growth Time": "10",
+        "Max Harvests": "2",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/01/Taro_Root.png"
+      },
+      "Sweet Gem Berry": {
+        "Seed Price": "1000g (Traveling Cart)",
+        "Type": "Single Harvest",
+        "Season": "Fall",
+        "Growth Time": "24",
+        "Max Harvests": "1",
+        "Base Sell Price": "3000g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/88/Sweet_Gem_Berry.png"
+      },
+      "Tea Leaves": {
+        "Seed Price": "0g",
+        "Type": "Multi Harvest",
+        "Season": "Spring, Summer Fall",
+        "Growth Time": "20 Initial Harvest / 1 Additional Harvests",
+        "Max Harvests": "5",
+        "Base Sell Price": "20g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5b/Tea_Leaves.png"
+      }
+}

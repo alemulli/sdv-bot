@@ -1,0 +1,138 @@
+{
+    "House Upgrade 1": {
+        "cost": ["10,000g", "450 Wood"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5d/House_%28tier_2%29.png"
+    },
+    "House Upgrade 2": {
+        "cost": ["65,000g", "100 Hardwood"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/House_%28tier_3%29.png/144px-House_%28tier_3%29.png"
+    },
+    "House Upgrade 3": {
+        "cost": ["100,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/5/51/House_%28tier_3%29.png/144px-House_%28tier_3%29.png"
+    },
+    "Open Bedroom": {
+        "cost": ["10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/c/c1/Divider.png/500px-Divider.png"
+    },
+    "Add Southern Room": {
+        "cost": ["30,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/ab/Southern_Room.png/500px-Southern_Room.png"
+    },
+    "Add Corner Room": {
+        "cost": ["20,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/f/f5/Corner_Room.png/500px-Corner_Room.png"
+    },
+    "Add Dining Room": {
+        "cost": ["150,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/a/a0/Dining-room.png/500px-Dining-room.png"
+    },
+    "Add Cubby": {
+        "cost": ["10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/1/1e/Cubby.png/500px-Cubby.png"
+    },
+    "Add Attic": {
+        "cost": ["60,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/b/bb/Attic.png/500px-Attic.png"
+    },
+    "Expand Corner Room": {
+        "cost": ["100,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/3/30/Larger-corner-room.png/500px-Larger-corner-room.png"
+    },
+    "Open Dining Room": {
+        "cost": ["10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/thumb/6/6d/Open-dining.png/500px-Open-dining.png"
+    },
+    "Copper Hoe": {
+        "cost": ["5 Copper Bar", "2,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8f/Copper_Hoe.png"
+    },
+    "Copper Pickaxe": {
+        "cost": ["5 Copper Bar", "2,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d7/Copper_Pickaxe.png"
+    },
+    "Copper Axe": {
+        "cost": ["5 Copper Bar", "2,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/21/Copper_Axe.png"
+    },
+    "Copper Watering Can": {
+        "cost": ["5 Copper Bar", "2,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/0d/Copper_Watering_Can.png"
+    },
+    "Copper Trashcan": {
+        "cost": ["5 Copper Bar", "1,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/6f/Trash_Can_Copper.png"
+    },
+    "Steel Hoe": {
+        "cost": ["5 Iron Bar", "5,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f5/Steel_Hoe.png"
+    },
+    "Steel Pickaxe": {
+        "cost": ["5 Iron Bar", "5,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Steel_Pickaxe.png"
+    },
+    "Steel Axe": {
+        "cost": ["5 Iron Bar", "5,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/ce/Steel_Axe.png"
+    },
+    "Steel Watering Can": {
+        "cost": ["5 Iron Bar", "5,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/66/Steel_Watering_Can.png"
+    },
+    "Steel Trashcan": {
+        "cost": ["5 Iron Bar", "2,500g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/b9/Trash_Can_Steel.png"
+    },
+    "Steel Pan": {
+        "cost": ["5 Iron Bar", "5,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/49/Steel_Pan.png"
+    },
+    "Gold Hoe": {
+        "cost": ["5 Gold Bar", "10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Gold_Hoe.png"
+    },
+    "Gold Pickaxe": {
+        "cost": ["5 Gold Bar", "10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Gold_Pickaxe.png"
+    },
+    "Gold Axe": {
+        "cost": ["5 Gold Bar", "10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/29/Gold_Axe.png"
+    },
+    "Gold Watering Can": {
+        "cost": ["5 Gold Bar", "10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/74/Gold_Watering_Can.png"
+    },
+    "Gold Trashcan": {
+        "cost": ["5 Gold Bar", "5,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Trash_Can_Gold.png"
+    },
+    "Gold Pan": {
+        "cost": ["5 Gold Bar", "10,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/6e/Gold_Pan.png"
+    },
+    "Iridium Hoe": {
+        "cost": ["5 Iridium Bar", "25,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5f/Iridium_Hoe.png"
+    },
+    "Iridium Pickaxe": {
+        "cost": ["5 Iridium Bar", "25,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/ca/Iridium_Pickaxe.png"
+    },
+    "Iridium Axe": {
+        "cost": ["5 Iridium Bar", "25,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8b/Iridium_Axe.png"
+    },
+    "Iridium Watering Can": {
+        "cost": ["5 Iridium Bar", "25,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5e/Iridium_Watering_Can.png"
+    },
+    "Iridium Trashcan": {
+        "cost": ["5 Iridium Bar", "12,500g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Trash_Can_Iridium.png"
+    },
+    "Iridium Pan": {
+        "cost": ["5 Iridium Bar", "25,000g"],
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/66/Iridium_Pan.png"
+    }
+}

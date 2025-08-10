@@ -1,0 +1,641 @@
+{
+    "Pufferfish": {
+        "Location": "Ocean, Ginger Island",
+        "Season": "Summer",
+        "Time": "12pm - 4pm",
+        "Weather": "Sun",
+        "Base Sell Price": "200g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png"
+    },
+    "Anchovy": {
+        "Location": "Ocean",
+        "Season": "Spring, Fall",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "30g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/79/Anchovy.png"
+    },
+    "Tuna": {
+        "Location": "Ocean, Ginger Island",
+        "Season": "Summer, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/c/c5/Tuna.png"
+      },
+      "Sardine": {
+        "Location": "Ocean",
+        "Season": "Spring, Fall, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "40g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/04/Sardine.png"
+      },
+      "Bream":{
+        "Location": "River",
+        "Season": "All Seasons",
+        "Time": "6pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "45g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/82/Bream.png"
+      },
+      "Largemouth Bass": {
+        "Location": "Mountain Lake",
+        "Season": "All Seasons",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/11/Largemouth_Bass.png"
+      },
+      "Smallmouth Bass": {
+        "Location": "River, Forest Pond",
+        "Season": "Spring, Fall",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "50g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a5/Smallmouth_Bass.png"
+      },
+      "Rainbow Trout": {
+        "Location": "River, Mountain Lake",
+        "Season": "Summer",
+        "Time": "6am - 7pm",
+        "Weather": "Sun",
+        "Base Sell Price": "65g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/14/Rainbow_Trout.png"
+      },
+      "Salmon": {
+        "Location": "River, Forest Waterfalls",
+        "Season": "Fall",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e0/Salmon.png"
+      },
+      "Walleye": {
+        "Location": "River, Forest Pond, Mountain Lake",
+        "Season": "Fall, Winter",
+        "Time": "12pm - 2am",
+        "Weather": "Rain",
+        "Base Sell Price": "105g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/05/Walleye.png"
+      },
+      "Perch": {
+        "Location": "River, Forest Pond, Mountain Lake",
+        "Season": "Winter",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "55g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/43/Perch.png"
+      },
+      "Carp": {
+        "Location": "Mountain Lake, Secret Woods Pond, Sewers",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "30g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a8/Carp.png"
+      },
+      "Catfish": {
+        "Location": "River, Secret Woods Pond, Witch's Swamp",
+        "Season": "All Seasons",
+        "Time": "6am - 12am",
+        "Weather": "Rain",
+        "Base Sell Price": "200g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png"
+      },
+      "Pike": {
+        "Location": "River, Forest Pond",
+        "Season": "Summer, Winter",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/31/Pike.png"
+      },
+      "Sunfish": {
+        "Location": "River",
+        "Season": "Spring, Summer",
+        "Time": "6am- 7pm",
+        "Weather": "Sun Wind",
+        "Base Sell Price": "30g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/56/Sunfish.png"
+      },
+      "Red Mullet": {
+        "Location": "Ocean",
+        "Season": "Summer, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f2/Red_Mullet.png"
+      },
+      "Herring": {
+        "Location": "Ocean",
+        "Season": "Spring, Winter",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "30g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/f1/Herring.png"
+      },
+      "Eel": {
+        "Location": "Ocean",
+        "Season": "Spring, Fall",
+        "Time": "4pm - 2am",
+        "Weather": "Rain",
+        "Base Sell Price": "85g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Eel.png"
+      },
+      "Octopus": {
+        "Location": "Ocean, Ginger Island",
+        "Season": "Summer",
+        "Time": "6am - 1pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "150g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
+      },
+      "Red Snapper": {
+        "Location": "Ocean",
+        "Season": "Summer, Fall, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Rain",
+        "Base Sell Price": "50g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d3/Red_Snapper.png"
+      },
+      "Squid": {
+        "Location": "Ocean",
+        "Season": "Winter",
+        "Time": "6pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "80g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/81/Squid.png"
+      },
+      "Sea Cucumber": {
+        "Location": "Ocean",
+        "Season": "Fall, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
+      },
+      "Super Cucumber": {
+        "Location": "Ocean, Ginger Island",
+        "Season": "Summer, Fall",
+        "Time": "6pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "250g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png"
+      },
+      "Ghostfish": {
+        "Location": "Mines (F20, F60)",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "45g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/72/Ghostfish.png"
+      },
+      "Stonefish": {
+        "Location": "Mines (F20)",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "300g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/03/Stonefish.png"
+      },
+      "Ice Pip": {
+        "Location": "Mines (F60)",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "500g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/63/Ice_Pip.png"
+      },
+      "Lava Eel": {
+        "Location": "Mines (F100), Volcano Caldera",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "700g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Lava_Eel.png"
+      },
+      "Sandfish": {
+        "Location": "Desert",
+        "Season": "All Seasons",
+        "Time": "6am - 8pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png"
+      }, 
+      "Scorpion Carp": {
+        "Location": "Desert (Fishing Level 4)",
+        "Season": "All Seasons",
+        "Time": "6am - 8pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "150g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/76/Scorpion_Carp.png"
+      },
+      "Flounder": {
+        "Location": "Ocean, Ginger Island",
+        "Season": "Spring, Summer",
+        "Time": "6am - 8pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/85/Flounder.png"
+      },
+      "Midnight Carp": {
+        "Location": "Mountain Lake, Cindersap Forest Pond, Ginger Island",
+        "Season": "Fall, Winter",
+        "Time": "10pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "150g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/33/Midnight_Carp.png"
+      },
+      "Sturgeon": {
+        "Location": "Mountain Lake",
+        "Season": "Summer, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "200g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png"
+      },
+      "Tiger Trout": {
+        "Location": "River",
+        "Season": "Fall, Winter",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "150g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/01/Tiger_Trout.png"
+      },
+      "Bullhead": {
+        "Location": "Mountain Lake",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Bullhead.png"
+      },
+      "Tilapia": {
+        "Location": "Ocean, Ginger Island",
+        "Season": "Summer, Fall",
+        "Time": "6am - 2pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/73/Tilapia.png"
+      },
+      "Chub": {
+        "Location": "Cindersap Forest River, Mountain Lake",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "50g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bd/Chub.png"
+      },
+      "Dorado": {
+        "Location": "River",
+        "Season": "Summer",
+        "Time": "6am - 7pm",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/18/Dorado.png"
+      },
+      "Albacore": {
+        "Location": "Ocean",
+        "Season": "Fall, Winter",
+        "Time": "6am - 11am and 6pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/e1/Albacore.png"
+      },
+      "Shad": {
+        "Location": "River",
+        "Season": "Spring, Summer, Fall",
+        "Time": "9am - 2am",
+        "Weather": "Rain",
+        "Base Sell Price": "60g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/ef/Shad.png"
+      },
+      "Lingcod": {
+        "Location": "River, Mountain Lake",
+        "Season": "Winter",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "120g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/87/Lingcod.png"
+      },
+      "Halibut": {
+        "Location": "Ocean",
+        "Season": "Spring, Summer, Winter",
+        "Time": "6am - 11am and 7pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "80g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/0/02/Halibut.png"
+      },
+      "Woodskip": {
+        "Location": "Secret Woods Pond",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "75g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/9/97/Woodskip.png"
+      },
+      "Void Salmon": {
+        "Location": "Witch's Swamp",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "150g",
+        "Bundle": true,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Void_Salmon.png"
+      },
+      "Slimejack": {
+        "Location": "Mutant Bug Lair",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/34/Slimejack.png"
+      },
+      "Stingray": {
+        "Location": "Pirate Cove",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "180g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/3/3a/Stingray.png"
+      },
+      "Lionfish": {
+        "Location": "Ginger Island",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Lionfish.png"
+      },
+      "Blue Discus": {
+        "Location": "Ginger Island",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "120g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/e/ee/Blue_Discus.png"
+      },
+      "Goby": {
+        "Location": "Forest Waterfalls",
+        "Season": "All Seasons",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "150g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/6/67/Goby.png"
+      },
+      "Midnight Squid": {
+        "Location": "Nightmarket Submarine Winter 15-17",
+        "Season": "Winter",
+        "Time": "5pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "100g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/83/Midnight_Squid.png"
+      },
+      "Spook Fish": {
+        "Location": "Night Market Submarine Winter 15-17",
+        "Season": "Winter",
+        "Time": "5pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "220g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/8/8c/Spook_Fish.png"
+      },
+      "Blobfish": {
+        "Location": "Night Market Submarine Winter 15-17",
+        "Season": "Winter",
+        "Time": "5pm - 2am",
+        "Weather": "Any Weather",
+        "Base Sell Price": "500g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/7/7f/Blobfish.png"
+      },
+      "Crimsonfish": {
+        "Location": "Eash Pier on the Beach (Level 5 Fishing)",
+        "Season": "Summer",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "1500g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/d/dc/Crimsonfish.png"
+      },
+      "Angler": {
+        "Location": "North of JojaMart (Level 3 Fishing)",
+        "Season": "Fall",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "900g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/b/bf/Angler.png"
+      },
+      "Legend": {
+        "Location": "Mountain Lake (Fishing Level 10)",
+        "Season": "Spring",
+        "Time": "Anytime",
+        "Weather": "Rain",
+        "Base Sell Price": "5000g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/1/10/Legend.png"
+      },
+      "Glacierfish": {
+        "Location": "Cindersap Forest (Level 6 Fishing)",
+        "Season": "Winter",
+        "Time": "Anytime",
+        "Weather": "Any Weather",
+        "Base Sell Price": "1000g",
+        "Bundle": false,
+        "image": "https://stardewvalleywiki.com/mediawiki/images/f/fd/Glacierfish.png"
+      },
+        "Mutant Carp": {
+            "Location": "Sewers (Level 9 Fishing)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "1000g",
+            "Bundle": false,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/c/cb/Mutant_Carp.png"
+        },
+        "Son of Crimsonfish": {
+            "Location": "East Pier on the Beach (Level 5 Fishing)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "1500g",
+            "Bundle": false,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/12/Son_of_Crimsonfish.png"
+        },
+        "Ms. Angler": {
+            "Location": "North of JojaMart (Level 3 Fishing)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "900g",
+            "Bundle": false,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/b/bb/Ms._Angler.png"
+        },
+        "Legend II": {
+            "Location": "Mountain Lake (Fishing Level 10)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "5000g",
+            "Bundle": false,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/7/7a/Legend_II.png"
+        },
+        "Glacierfish Jr.": {
+            "Location": "Cindersap Forest (Level 6 Fishing)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "1000g",
+            "Bundle": false,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Glacierfish_Jr..png"
+        },
+        "Radioactive Carp": {
+            "Location": "The Sewers",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "1000g",
+            "Bundle": false,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/57/Radioactive_Carp.png"
+        },
+        "Lobster": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "120g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png"
+        },
+        "Clam": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "50g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/e/ed/Clam.png"
+        },
+        "Crayfish": {
+            "Location": "River (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "75g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/53/Crayfish.png"
+        },
+        "Crab": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "100g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/6/63/Crab.png"
+        },
+        "Cockle": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "50g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/ad/Cockle.png"
+        },
+        "Mussel": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "30g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Mussel.png"
+        },
+        "Shrimp": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "60g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/9/91/Shrimp.png"
+        },
+        "Snail": {
+            "Location": "River (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "65g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
+        },
+        "Periwinkle": {
+            "Location": "River (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "20g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/1/1d/Periwinkle.png"
+        },
+        "Oyster": {
+            "Location": "Ocean (Crab Pot)",
+            "Season": "All Seasons",
+            "Time": "Anytime",
+            "Weather": "Any Weather",
+            "Base Sell Price": "40g",
+            "Bundle": true,
+            "image": "https://stardewvalleywiki.com/mediawiki/images/5/54/Oyster.png"
+        },
+}
