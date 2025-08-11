@@ -2,17 +2,11 @@ app = "sdv-bot"
 primary_region = "iad"
 
 [build]
-  dockerfile = "Dockerfile"   # fixes the "more than one build configuration" warn
-
-[deploy]
-  strategy = "rolling"
+  dockerfile = "Dockerfile" 
 
 [processes]
-  bot = "python -u main.py"   # this is what runs
+  app = "python main.py"
 
-# Keep your volume if you need persistence
-[[mounts]]
+[mounts]
   source = "data"
   destination = "/data"
-
-# IMPORTANT: Ensure there is NO [[services]] or [http_service] block at all
