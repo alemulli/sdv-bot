@@ -81,10 +81,10 @@
       },
       "Quality Crops Bundle": {
         "items": {
-          "5 Parsnip\u2605": false,
-          "5 Melon\u2605": false,
-          "5 Corn\u2605": false,
-          "5 Pumpkin\u2605": false
+          "5 Parsnip★": false,
+          "5 Melon★": false,
+          "5 Corn★": false,
+          "5 Pumpkin★": false
         }
       },
       "Animal Bundle": {
@@ -201,7 +201,7 @@
           "Fiddlehead Fern": false,
           "Truffle": false,
           "Poppy": false,
-          "Maki Roll": false,
+          "Maki Roll": true,
           "Fried Egg": false
         }
       },
@@ -264,11 +264,11 @@
     "Abandoned JojaMart": {
       "The Missing Bundle": {
         "items": {
-          "Wine\u2605": false,
+          "Wine★": false,
           "Dinosaur Mayonnaise": false,
           "Prismatic Shard": false,
-          "5 Ancient Fruit\u2605": false,
-          "Void Salmon\u2605": false,
+          "5 Ancient Fruit★": false,
+          "Void Salmon★": false,
           "Caviar": false
         }
       }

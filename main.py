@@ -219,7 +219,23 @@ async def char(ctx, townsperson: str):
             thumb=data.get("image"),
             fields=[("Birthday", data.get("birthday", '—'), False)]
         )
-        await ctx.send(embed=embed)
+
+        # Add "View {Char}'s Schedule on Wiki" button
+        schedule_url = data.get("schedule")
+        view = None
+        if schedule_url:
+            # jump straight to the Schedule section on the wiki page
+            button = discord.ui.Button(
+                label=f"View {t}'s Schedule on Wiki",
+                url=f"{schedule_url}#Schedule"
+            )
+            view = discord.ui.View()
+            view.add_item(button)
+
+        if view:
+            await ctx.send(embed=embed, view=view)
+        else:
+            await ctx.send(embed=embed)
     else:
         await ctx.send(f"No data available for {t}.")
 
