@@ -29,4 +29,4 @@ jobs:
             --size 1 || true
 
       - name: Deploy
-        run: flyctl deploy --app "$FLY_APP" --remote-only
+        run: flyctl deploy --app "$FLY_APP" --remote-only --strategy rolling
