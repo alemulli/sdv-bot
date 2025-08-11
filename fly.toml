@@ -1,9 +1,6 @@
 app = "sdv-bot"
 primary_region = "iad"
 
-[build]
-  dockerfile = "Dockerfile" 
-
 [processes]
   app = "python main.py"
 
