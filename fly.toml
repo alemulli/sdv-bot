@@ -7,7 +7,7 @@ app = 'sdv-bot'
 primary_region = 'iad'
 
 [build]
-  dockerfile = "dockerfile"
+  dockerfile = "Dockerfile"
   builder = 'paketobuildpacks/builder:base'
 
 [env]
