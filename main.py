@@ -16,7 +16,7 @@ intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
-BUNDLES_STATE_PATH = os.path.join(DATA_DIR, 'bundles_state.json')
+BUNDLES_STATE_PATH = os.getenv('BUNDLES_STATE_PATH') or os.path.join(DATA_DIR, 'bundles_state.json')
 
 ########################
 # Utility: JSON loading
