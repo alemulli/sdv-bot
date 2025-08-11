@@ -12,14 +12,10 @@ primary_region = 'iad'
 
 [env]
   PORT = '8080'
+  BUNDLES_STATE_PATH = "/data/bundles_state.json"
 
-[http_service]
-  internal_port = 8080
-  force_https = true
-  auto_stop_machines = 'stop'
-  auto_start_machines = true
-  min_machines_running = 0
-  processes = ['app']
+[processes]
+  app = "python main.py"
 
 [[vm]]
   memory = '1gb'
