@@ -27,5 +27,8 @@ primary_region = 'iad'
   cpus = 1
 
 [[mounts]]
-source = "data"
-destination = "/data"
+  source = "data"
+  destination = "/data"
+
+[processes]
+  bot = "python -u main.py"
