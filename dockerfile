@@ -1,24 +1,16 @@
-# Use a slim Python; discord.py works great on 3.11+
 FROM python:3.11-slim
 
-# System deps
-RUN apt-get update && apt-get install -y --no-install-recommends \
-    ca-certificates tzdata && \
-    rm -rf /var/lib/apt/lists/*
+ENV PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1
 
-# App directory
 WORKDIR /app
+COPY requirements.txt .
+RUN pip install -r requirements.txt
 
-# Copy requirements first (better caching)
-COPY requirements.txt /app/requirements.txt
-RUN pip install --no-cache-dir -r /app/requirements.txt
+# Copy the rest of the app
+COPY . .
 
-# Copy the rest of the code
-COPY . /app
+# store persistent state on the mounted volume (set in fly.toml)
+ENV BUNDLES_STATE_PATH=/data/bundles_state.json
 
-# Environment – don’t print bytecode, flush logs
-ENV PYTHONDONTWRITEBYTECODE=1 \
-    PYTHONUNBUFFERED=1
-
-# Start the bot
 CMD ["python", "main.py"]
