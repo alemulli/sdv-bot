@@ -11,6 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     concurrency: deploy-group    # optional: ensure only one action runs at a time
     steps:
+      - name: Ensure Fly volume exists
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+        run: |
+          # Will succeed the first time; on subsequent runs it will error,
+          # so we OR with true to keep the workflow going.
+          flyctl volumes create data --region iad --size 1 || true
+
       - uses: actions/checkout@v4
       - uses: superfly/flyctl-actions/setup-flyctl@master
       - run: flyctl deploy --remote-only
