@@ -25,10 +25,6 @@ jobs:
             --region "$FLY_REGION" \
             --size 1 || true
 
-      - name: Set secrets (first run or when BOT_TOKEN changes)
-        if: ${{ secrets.BOT_TOKEN != '' }}
-        run: flyctl secrets set BOT_TOKEN=${{ secrets.BOT_TOKEN }} --app "$FLY_APP"
-
       - name: Deploy
         run: |
           flyctl deploy \
