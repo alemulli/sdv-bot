@@ -1,0 +1,277 @@
+{
+  "731273694978244668": {
+    "Crafts Room": {
+      "Spring Foraging Bundle": {
+        "items": {
+          "Wild Horseradish": false,
+          "Daffodil": false,
+          "Leek": false,
+          "Dandelion": false
+        }
+      },
+      "Summer Foraging Bundle": {
+        "items": {
+          "Spice Berry": false,
+          "Sweet Pea": false,
+          "Grape": false
+        }
+      },
+      "Fall Foraging Bundle": {
+        "items": {
+          "Common Mushroom": false,
+          "Hazelnut": false,
+          "Blackberry": false,
+          "Wild Plum": false
+        }
+      },
+      "Winter Foraging Bundle": {
+        "items": {
+          "Winter Root": false,
+          "Crystal Fruit": false,
+          "Snow Yam": false,
+          "Crocus": false
+        }
+      },
+      "Construction Bundle": {
+        "items": {
+          "99 Wood": false,
+          "99 Wood (2)": false,
+          "99 Stone": false,
+          "10 Hardwood": false
+        }
+      },
+      "Exotic Foraging Bundle": {
+        "items": {
+          "Coconut": false,
+          "Cactus Fruit": false,
+          "Cave Carrot": false,
+          "Red Mushroom": false,
+          "Purple Mushroom": false,
+          "Oak Resin": false,
+          "Maple Syrup": false,
+          "Pine Tar": false,
+          "Morel": false
+        }
+      }
+    },
+    "Pantry": {
+      "Spring Crops Bundle": {
+        "items": {
+          "Cauliflower": false,
+          "Green Bean": false,
+          "Potato": false,
+          "Parsnip": false
+        }
+      },
+      "Summer Crops Bundle": {
+        "items": {
+          "Melon": false,
+          "Tomato": false,
+          "Hot Pepper": false,
+          "Blueberry": false
+        }
+      },
+      "Fall Crops Bundle": {
+        "items": {
+          "Corn": false,
+          "Eggplant": false,
+          "Pumpkin": false,
+          "Yam": false
+        }
+      },
+      "Quality Crops Bundle": {
+        "items": {
+          "5 Parsnip\u2605": false,
+          "5 Melon\u2605": false,
+          "5 Corn\u2605": false,
+          "5 Pumpkin\u2605": false
+        }
+      },
+      "Animal Bundle": {
+        "items": {
+          "Large Milk": false,
+          "Large Goat Milk": false,
+          "Large Egg": false,
+          "Large Egg (Brown)": false,
+          "Duck Egg": false,
+          "Wool": false
+        }
+      },
+      "Artisan Bundle": {
+        "items": {
+          "Honey": false,
+          "Jelly": false,
+          "Cloth": false,
+          "Truffle Oil": false,
+          "Cheese": false,
+          "Goat Cheese": false,
+          "Apple": true,
+          "Orange": true,
+          "Apricot": true,
+          "Peach": true,
+          "Pomegranate": true,
+          "Cherry": true
+        }
+      }
+    },
+    "Fish Tank": {
+      "River Fish Bundle": {
+        "items": {
+          "Sunfish": false,
+          "Catfish": false,
+          "Shad": false,
+          "Tiger Trout": false
+        }
+      },
+      "Lake Fish Bundle": {
+        "items": {
+          "Largemouth Bass": false,
+          "Carp": false,
+          "Sturgeon": false,
+          "Bullhead": false
+        }
+      },
+      "Ocean Fish Bundle": {
+        "items": {
+          "Sardine": false,
+          "Tuna": false,
+          "Red Snapper": false,
+          "Tilapia": false
+        }
+      },
+      "Night Fish Bundle": {
+        "items": {
+          "Walleye": false,
+          "Bream": false,
+          "Eel": false
+        }
+      },
+      "Crab Pot Bundle": {
+        "items": {
+          "Crab": false,
+          "Lobster": false,
+          "Crayfish": false,
+          "Cockle": false,
+          "Mussel": false,
+          "Shrimp": false,
+          "Oyster": false,
+          "Clam": false,
+          "Snail": false,
+          "Periwinkle": false
+        }
+      },
+      "Specialty Fish Bundle": {
+        "items": {
+          "Pufferfish": false,
+          "Ghostfish": false,
+          "Sandfish": false,
+          "Woodskip": false
+        }
+      }
+    },
+    "Boiler Room": {
+      "Blacksmith's Bundle": {
+        "items": {
+          "Copper Bar": false,
+          "Iron Bar": false,
+          "Gold Bar": false
+        }
+      },
+      "Adventurer's Bundle": {
+        "items": {
+          "99 Slime": false,
+          "Solar Essence": false,
+          "Void Essence": false,
+          "10 Bat Wing": false
+        }
+      },
+      "Geologist's Bundle": {
+        "items": {
+          "Quartz": false,
+          "Earth Crystal": false,
+          "Frozen Tear": false,
+          "Fire Quartz": false
+        }
+      }
+    },
+    "Bulletin Board": {
+      "Chef's Bundle": {
+        "items": {
+          "Maple Syrup": false,
+          "Fiddlehead Fern": false,
+          "Truffle": false,
+          "Poppy": false,
+          "Maki Roll": false,
+          "Fried Egg": false
+        }
+      },
+      "Dye Bundle": {
+        "items": {
+          "Red Cabbage": false,
+          "Sea Urchin": false,
+          "Sunflower": false,
+          "Aquamarine": false,
+          "Duck Feather": false,
+          "Red Mushroom": false
+        }
+      },
+      "Field Research Bundle": {
+        "items": {
+          "Purple Mushroom": false,
+          "Frozen Geode": false,
+          "Nautilus Shell": false,
+          "Chub": false
+        }
+      },
+      "Enchanter's Bundle": {
+        "items": {
+          "Oak Resin": false,
+          "Pomegranate": false,
+          "Wine": false,
+          "Rabbit's Foot": false
+        }
+      },
+      "Fodder Bundle": {
+        "items": {
+          "10 Wheat": false,
+          "10 Hay": false,
+          "3 Apple": false
+        }
+      }
+    },
+    "Vault": {
+      "2,500 Bundle": {
+        "items": {
+          "2,500 Gold": false
+        }
+      },
+      "5,000 Bundle": {
+        "items": {
+          "5,000 Gold": false
+        }
+      },
+      "10,000 Bundle": {
+        "items": {
+          "10,000 Gold": false
+        }
+      },
+      "25,000 Bundle": {
+        "items": {
+          "25,000 Gold": false
+        }
+      }
+    },
+    "Abandoned JojaMart": {
+      "The Missing Bundle": {
+        "items": {
+          "Wine\u2605": false,
+          "Dinosaur Mayonnaise": false,
+          "Prismatic Shard": false,
+          "5 Ancient Fruit\u2605": false,
+          "Void Salmon\u2605": false,
+          "Caviar": false
+        }
+      }
+    }
+  }
+}

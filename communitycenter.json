@@ -394,27 +394,27 @@
         "amount": 1,
         "reward": "Crystalarium",
         "image": "https://stardewvalleywiki.com/mediawiki/images/a/a7/25000_Bundle.png"
-      },
-      "Reward": "Bus Repair"
+      }
     },
-    "Abandoned JojaMart": {
-      "Bundles": {
-        "The Missing Bundle": {
-          "items": {
-            "Wine★": false,
-            "Dinosaur Mayonnaise": false,
-            "Prismatic Shard": false,
-            "5 Ancient Fruit★": false,
-            "Void Salmon★": false,
-            "Caviar": false
-          },
-          "completed": 0,
-          "amount": 5,
-          "reward": "",
-          "image": "https://stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png"
-        }
-      },
-      "Reward": "Movie Theater"
-    }
+    "Reward": "Bus Repair"
+  },
+  "Abandoned JojaMart": {
+    "Bundles": {
+      "The Missing Bundle": {
+        "items": {
+          "Wine★": false,
+          "Dinosaur Mayonnaise": false,
+          "Prismatic Shard": false,
+          "5 Ancient Fruit★": false,
+          "Void Salmon★": false,
+          "Caviar": false
+        },
+        "completed": 0,
+        "amount": 5,
+        "reward": "",
+        "image": "https://stardewvalleywiki.com/mediawiki/images/2/24/The_Missing_Bundle.png"
+      }
+    },
+    "Reward": "Movie Theater"
   }
 }
