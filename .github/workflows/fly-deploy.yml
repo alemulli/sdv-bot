@@ -3,24 +3,30 @@
 name: Fly Deploy
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
+
 jobs:
   deploy:
     name: Deploy app
     runs-on: ubuntu-latest
-    concurrency: deploy-group    # optional: ensure only one action runs at a time
-    steps:
-      - name: Ensure Fly volume exists
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
-        run: |
-          # Will succeed the first time; on subsequent runs it will error,
-          # so we OR with true to keep the workflow going.
-          flyctl volumes create data --region iad --size 1 || true
+    concurrency: deploy-group
+    env:
+      FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+      FLY_APP: sdv-bot     # must match app = 'sdv-bot' in fly.toml
+      FLY_REGION: iad
 
+    steps:
       - uses: actions/checkout@v4
+
       - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: flyctl deploy --remote-only
-        env:
-          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+
+      - name: Ensure Fly volume exists
+        run: |
+          # Create once; harmless to ignore error on subsequent runs
+          flyctl volumes create data \
+            --app "$FLY_APP" \
+            --region "$FLY_REGION" \
+            --size 1 || true
+
+      - name: Deploy
+        run: flyctl deploy --app "$FLY_APP" --remote-only
